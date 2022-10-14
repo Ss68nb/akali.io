@@ -1,0 +1,29 @@
+.content{
+   align-items: center;
+   text-align: center;
+   font-size: 65px;
+    height: calc(100vh - 100px);
+    padding-top: 150px;
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+
+.con{
+    color: rgb(255, 255, 255);
+    height: calc(100vh - 100px);
+    padding-top: 20px;
+    font-size: 40px;
+
+  }
+  
+a{
+    color: rgb(0, 0, 0);
+    list-style: none;
+    padding: 8px 30px ;
+    text-decoration: none;
+    background-color: White;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
